@@ -5,19 +5,24 @@
 
 ### Tech Stack
 **Back-End**
+
 ![My Skills](https://skillicons.dev/icons?i=java,js,spring)
 
 **DataBase**
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
 
 **Infra**
+
 [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 
 ### Learning
 
 **Back-End**
+
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ts,nest)](https://skillicons.dev)
 
 **DataBase**
+
 [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
