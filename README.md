@@ -6,7 +6,7 @@
 ### Tech Stack
 **Back-End**
 
-![My Skills](https://skillicons.dev/icons?i=java,js,spring)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,spring)
 
 **DataBase**
 
@@ -21,7 +21,7 @@
 
 **Back-End**
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,nest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 
 **DataBase**
 
